@@ -9,4 +9,4 @@
 - Create a file `jj` in `/usr/local/bin` and fill it with the content of the file in this repository.
 - `/usr/local/bin` is by default in path and you can start your search from your terminal by `jj search_pattern`
 
-![demo](https://github.com/user-attachments/assets/737b9bc3-7fe8-4746-baeb-7fda73bf05c5)
+![first](https://github.com/user-attachments/assets/18811baa-3715-429f-9767-8d43863db2df)
