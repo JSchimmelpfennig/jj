@@ -1,5 +1,3 @@
-![demo](https://github.com/user-attachments/assets/737b9bc3-7fe8-4746-baeb-7fda73bf05c5)
-
 # Needs
 - Fast search under Linux is neeed because [Everything](https://www.voidtools.com/) is not available for Linux
 - plocate by default doesn't show clickable links, so OCD8 is used to show clickable links (if the terminal emulator supports it)
@@ -10,3 +8,5 @@
 # Usage with bash
 - create a file `jjs` in `/usr/local/bin` and fill it with the content of the file in this repository.
 - `/usr/local/bin` is by default in path and you can start your search from your terminal by `jjs search_pattern`
+
+![demo](https://github.com/user-attachments/assets/737b9bc3-7fe8-4746-baeb-7fda73bf05c5)
