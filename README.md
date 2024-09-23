@@ -1,5 +1,5 @@
 # Why?
-- Fast search under Linux is neeed because [Everything](https://www.voidtools.com/) is not available for Linux
+- Fast search under Linux is needed because [Everything](https://www.voidtools.com/) is not available for Linux
 - `plocate` by default doesn't show clickable links, so OSC 8 is used to show clickable links (if the terminal emulator supports it)
 - Change `parent_directory` to the root folder where your search should start (e.g. `/home`)
 - The search is not case-sensitive. Can be changed but removing `-i` from `locate -i`
